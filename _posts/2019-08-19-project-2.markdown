@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  인어 모작 하다가 선생님이 구조 잡는거 조금더 연습하라고 하셨음..
+description:  인어 모작 하다가 선생님이 구조 잡는거 조금 더 연습하라고 하셨음..
+너무 어려운 모작 그림을 선택한 듯 하다.
 
 ---

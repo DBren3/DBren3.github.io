@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 4
-date: 2019-08-21
-img: 8-21 해골.jpg
+date: 2019-08-22
+img: 8-21.jpg
 alt: image-alt
 project-date: 8 2019
 client: Me
