@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2019-08-19
+img: 8-19.jpg
+alt: image-alt
+project-date: September 2019
+client: Me
+category: Web Development
+description:  인어 모작 하다가 선생님이 구조 잡는거 조금더 연습하라고 하셨음..
+
+---
