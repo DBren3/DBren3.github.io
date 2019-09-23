@@ -8,5 +8,8 @@ project-date: 8 2019
 client: Me
 category: Web Development
 description:  박스를 이용한 원그리기.
+8점법과 12점법 익히기.
+이후에 원, 원뿔, 원기둥 등을 그릴때 인용하고!
+또 나중에 그림을 그리게 될때 참고할 수 있다.
 모작입니다.
 ---

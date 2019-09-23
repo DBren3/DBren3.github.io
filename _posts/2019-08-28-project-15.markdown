@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 15
+date: 2019-08-28
+img: 8-28 apple.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  사과를 그리고 채색까지 했다.
+모작입니다.
+
+---

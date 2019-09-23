@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 17
+date: 2019-08-28
+img: 8-28 jewelry.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  보석 그리기!
+안에 문양은 엄청 고민해서 넣었다. ㅎㅎ
+이런 보석 진짜 있으면 좋겠다.
+---

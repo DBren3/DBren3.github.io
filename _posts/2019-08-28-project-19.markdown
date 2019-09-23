@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 19
+date: 2019-08-28
+img: 8-28corn.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  원뿔그리기!
+8점법이나 12점법을 이용해 그리기!
+
+---
