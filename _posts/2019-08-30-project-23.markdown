@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 23
+date: 2019-08-30
+img: 8-30 s.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  셔츠 그리기를 했다.
+시간이 부족해서 간단한 옷주름으로 그렸다.
+
+모작입니다.
+
+---

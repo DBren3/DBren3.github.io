@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 20
+date: 2019-08-29
+img: 8-29 profile.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  친구가 부탁해서 그린 프로필 사진!
+익룡이예용☞~▽~☞
+
+---
