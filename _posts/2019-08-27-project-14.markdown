@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 14
+date: 2019-08-22
+img: 8-27hand.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  손으로 원기둥 그리기.
+
+---

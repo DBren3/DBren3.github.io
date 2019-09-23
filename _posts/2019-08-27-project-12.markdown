@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 12
+date: 2019-08-22
+img: 8-27 cube.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  상자 그리기!
+
+
+---
