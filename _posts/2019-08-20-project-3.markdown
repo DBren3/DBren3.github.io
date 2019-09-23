@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2019-08-20
+img: 8-20.jpg
+alt: image-alt
+project-date: September 2019
+client: Me
+category: Web Development
+description:  해골 남녀 모작
+
+---
