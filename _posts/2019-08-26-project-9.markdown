@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2019-08-26
+img: 8-26 Box.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  박스를 이용한 원그리기.
+모작입니다.
+---

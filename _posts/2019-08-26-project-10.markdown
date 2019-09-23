@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2019-08-22
+img: 8-26.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  주사기 그리기.
+풍선같은 느낌처럼 그려졌다. ㅋㅋ
+모작입니다.
+
+---

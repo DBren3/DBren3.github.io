@@ -9,5 +9,6 @@ client: Me
 category: Web Development
 description: 리그오브레전드 애니
 롤 일러스트를 참조해서 그렸습니다.
+귀여워서 그려본 애니.. ㅎㅎ
 
 ---

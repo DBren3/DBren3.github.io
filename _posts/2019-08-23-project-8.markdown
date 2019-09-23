@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2019-08-23
+img: 8-23 3.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  3점투시로 그림 그리기
+직선을 이용해서 그림 그리기.
+모작입니다.
+---

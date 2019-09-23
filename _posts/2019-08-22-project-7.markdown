@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2019-08-22
+img: 8-22eye.jpg
+alt: image-alt
+project-date: 8 2019
+client: Me
+category: Web Development
+description:  눈 모작 그리기 
+
+---
