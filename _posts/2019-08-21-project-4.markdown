@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
-date: 2019-08-14
-img: 8-14.jpg
+modal-id: 4
+date: 2019-08-21
+img: 8-21 해골.jpg
 alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description: 리그오브레전드 애니
+description:  해골 두개골
 
 ---
