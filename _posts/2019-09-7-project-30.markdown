@@ -1,14 +1,15 @@
 ---
 layout: default
 modal-id: 1
-date: 2019-09-01
-img: 9-2 face.jpg
+date: 2019-09-07
+img: 9-7 m.jpg
 alt: image-alt
 project-date: 9 2019
 client: Me
 category: Web Development
-description:  이목구비 그리기.
-눈 귀 입 등을 그려 기초를 다지자.
+description:  남자 어른 입니다.
+
+아저씨죠..
 
 모작입니다.
 

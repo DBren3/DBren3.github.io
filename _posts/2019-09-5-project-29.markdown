@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-05
+img: 9-5 girl.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  여자 얼굴 그리기
+
+첨엔 그래도 예뻣는데 ㅜㅜ
+고치다보니 무서운 얼굴이 되어버렸다.. ㅠㅠㅠㅠ
+
+모작입니다.
+
+---

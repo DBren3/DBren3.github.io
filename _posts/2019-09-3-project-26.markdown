@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2019-09-3
+date: 2019-09-03
 img: 9-3 lip.jpg
 alt: image-alt
 project-date: 8 2019

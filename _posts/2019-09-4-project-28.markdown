@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-04
+img: 9-4 eyes.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  눈입니당.
+
+안젤리나 졸리 분으로 추정되는데..
+
+모작입니다.
+---
