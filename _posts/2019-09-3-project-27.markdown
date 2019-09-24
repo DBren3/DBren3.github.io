@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-03
+img: 9-3 nose.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  코 그리기! ㅎㅎ
+
+반짝반짝.. ㅎㅎ
+
+모작입니다.
+
+---
