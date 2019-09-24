@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-07
+img: 9-18.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  펄스 아저씨
+
+펄스건을 들고 있어서 인상적이다.
+
+모작입니다.
+
+---

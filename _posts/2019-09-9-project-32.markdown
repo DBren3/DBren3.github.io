@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2019-09-09
+img: 9-9 eyes.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  화장한 눈 그리기
+확대해서 봐도 이쁘다. ㅋㅋ
+
+모작입니다.
+
+---
