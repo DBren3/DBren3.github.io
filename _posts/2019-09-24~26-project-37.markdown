@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 37
+date: 2019-09-24~26
+img: 9-24~26.jpg
+alt: image-alt
+project-date: 9 2019
+client: Me
+category: Web Development
+description:  던전앤파이터 격투가 모작입니다.
+
+---
