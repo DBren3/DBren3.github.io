@@ -8,5 +8,5 @@ project-date: 8 2019
 client: Me
 category: Web Development
 description:  해골 남녀 모작
-뼈 구조 잡는 것 부터 해야겠다.
+
 ---
