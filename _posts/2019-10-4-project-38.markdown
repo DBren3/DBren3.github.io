@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 36
+date: 2019-10-4
+img: 10-4.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  코그리기 연습 몇 개는 모작
+
+---
