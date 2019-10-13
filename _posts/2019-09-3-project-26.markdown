@@ -7,11 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  입술 그리기
-
-입술을 그려보았다.
-입술의 주름까지 그리느라 오래 걸렸다.
-
-모작입니다.
+description:  입술 그리기 모작입니다.
 
 ---

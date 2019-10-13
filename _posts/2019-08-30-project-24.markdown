@@ -7,10 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  커튼그리기!
-커튼을 그렸다. 생각보다 시간이 오래 걸렸다..
-색은 살짝 이상하지만 보람찬 작품이다. ㅎㅎ
-
-모작입니다.
+description:  커튼그리기! 모작입니다.
 
 ---

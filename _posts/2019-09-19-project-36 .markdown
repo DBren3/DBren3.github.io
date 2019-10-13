@@ -7,12 +7,6 @@ alt: image-alt
 project-date: 9 2019
 client: Me
 category: Web Development
-description:  리그오브레전드 카타리나
-
-영혼약탈자 카타리나!!
-
-여전사 멋있어!♥
-
-모작입니다.
+description:  리그오브레전드 카타리나 모작입니다.
 
 ---

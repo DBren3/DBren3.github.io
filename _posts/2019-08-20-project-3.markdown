@@ -7,12 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  해골 남녀 모작 <br> 그림그렸다
+description:  해골 남녀 모작 <br> 인체비율 공부하기
 
 ---
-
-# 표 그려보기.
-
-|이름|이미지|
-|:---:|:---:|
-|앙|꽁이찌찌|

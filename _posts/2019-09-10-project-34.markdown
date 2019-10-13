@@ -7,11 +7,6 @@ alt: image-alt
 project-date: 9 2019
 client: Me
 category: Web Development
-description:  도적 몸
-
-앞!
-옆!
-
-모작입니다.
+description:  도적 몸 모작입니다.
 
 ---

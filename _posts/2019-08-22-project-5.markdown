@@ -7,7 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  다리 모작
-다리 쉽게 그리기
+description:  다리 모작 <br>다리 쉽게 그리기
 
 ---

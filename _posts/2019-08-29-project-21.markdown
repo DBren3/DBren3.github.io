@@ -7,8 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  돌그리기!
-모작입니다.
-6시간동안 그렸다 ㅜㅜ..
+description:  돌그리기! 모작입니다. 6시간동안 그렸다 ㅜㅜ..
 
 ---

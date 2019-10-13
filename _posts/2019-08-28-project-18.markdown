@@ -7,7 +7,6 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  허겁지겁 호박그리기.
-모작입니다.
+description:  허겁지겁 호박그리기. 10분컷 모작입니다.
 
 ---

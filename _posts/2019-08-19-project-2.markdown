@@ -7,8 +7,5 @@ alt: image-alt
 project-date: 8 2019
 client: Me
 category: Web Development
-description:  인어 모작 하다가 조금 더 연습해야겠다..
-너무 어려운 모작 그림을 선택한 듯 하다.
-다음엔 기법이 좀 없는걸로 골라서 그려봐야겠다.
-실력이 미흡하닷!! 더 노력해야지.
+description:  인어 모작 <br>생각보다 많은 기법이 들어가서;ㅜ 연습을 좀더 해야겠다.
 ---
