@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2019-08-19
-img: 8-19.jpg
+img: 8-19 marmaid.jpg
 alt: image-alt
 project-date: 8 2019
 client: Me

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 23
 date: 2019-08-30
-img: 8-30 s.jpg
+img: 8-30 .jpg
 alt: image-alt
 project-date: 8 2019
 client: Me

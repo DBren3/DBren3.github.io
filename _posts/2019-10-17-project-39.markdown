@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 39
+date: 2019-10-17
+img: 10-17tile.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  타일 만들기 모작<br>복사해서 붙여넣기 가능!
+
+---
