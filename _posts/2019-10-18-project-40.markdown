@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 40
+date: 2019-10-18
+img: 10-18.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  돌모양 바닥 파일 만들기 모작
+
+---
