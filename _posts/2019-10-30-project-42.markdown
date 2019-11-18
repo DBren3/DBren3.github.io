@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 42
+date: 2019-10-30
+img: Dolpin-19-10-30.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  돌고래 만들기!
+
+---

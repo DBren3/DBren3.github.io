@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 43
+date: 2019-10-30
+img: p-47_19-10-30.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  P-47비행기 만들기.
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 41
+date: 2019-10-19
+img: Greatwhiteshark_19-10-16.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  상어 만들기.(3D_MAX 시작하기)
+
+---
