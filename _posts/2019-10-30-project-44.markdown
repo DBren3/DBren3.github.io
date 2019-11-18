@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 44
+date: 2019-10-30
+img: Sword_19-10-30.jpg
+alt: image-alt
+project-date: 10 2019
+client: Me
+category: Web October
+description:  검 만들기 모작
+
+---

@@ -2,11 +2,11 @@
 layout: default
 modal-id: 45
 date: 2019-11-1
-img: 19-11-01_sdbody_uvw2.jpg
+img: 19-11-01_sdbody_uvw.jpg
 alt: image-alt
 project-date: 11 2019
 client: Me
 category: Web November
-description:  SD캐릭터 옷 1
+description:  SD캐릭터 만들기_리그오브레전드 룰루
 
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 47
+modal-id: 48
 date: 2019-11-1
-img: 19-11-01_sdbody_uvw3.jpg
+img: pp_cloth2.jpg
 alt: image-alt
 project-date: 10 2019
 client: Me

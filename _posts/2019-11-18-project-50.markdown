@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 46
-date: 2019-11-1
-img: 19-11-01_sdbody_uvw2.jpg
+modal-id: 50
+date: 2019-11-18
+img: Barrel&box.jpg
 alt: image-alt
 project-date: 11 2019
 client: Me
 category: Web November
-description:  SD캐릭터 옷 1
+description:  BArrel&BOx
 
 ---
